@@ -25,38 +25,27 @@ Generates a curve using either b-spline or Bezier method, and then rotates the c
   by rotating about the x-axis.
 
 ## Program features
-[X] Control point input On/Off: When ON, user can add control 
+-[X] Control point input On/Off: When ON, user can add control 
       points
-
-[X] Control polygon On/Off: When ON, program will display 
+-[X] Control polygon On/Off: When ON, program will display 
       control polygon
-
-[X] B-spline curve On/Off: When ON, program will display the
+-[X] B-spline curve On/Off: When ON, program will display the
       B-spline curve based on control points
-
-[X] Select control point: In this mode, program can allow user
+-[X] Select control point: In this mode, program can allow user
       to select a control point
-
-[.] Delete or move selected control point: (feature of program,
+-[.] Delete or move selected control point: (feature of program,
       and not available through menu); program will automatically
       update the current control polygon/B-spline curve when the
       selected control point is deleted or moved
-
-[X] Save: Save current control points to bspline.txt
-
-[X] Retrieve: Retrieve control points from bspline.txt
-
-[X] Clear: Clear the current display window and delete all
+-[X] Save: Save current control points to bspline.txt
+-[X] Retrieve: Retrieve control points from bspline.txt
+-[X] Clear: Clear the current display window and delete all
       control points
-
-[X] Draw wireframe surface: display the B-spline surface as a
+-[X] Draw wireframe surface: display the B-spline surface as a
       wireframe mesh
-
-[X] Shade surface: shade the B-spline surface using pre-specified
+-[X] Shade surface: shade the B-spline surface using pre-specified
       lighting and material parameters
-
-[ ] Texture surface: allow the user to texture map either an
+-[ ] Texture surface: allow the user to texture map either an
       image or a texture pattern onto the B-spline surface; user
       can choose between the options
-
-[.] Have documentation available
+-[.] Have documentation available
