@@ -1,6 +1,7 @@
 # surfaceofrevolutions
 Generates a curve using either b-spline or Bezier method, and then rotates the curve across an axis of rotation using surface of revolutions method. The program requires installation of OpenGL.
 
+## Keyboard commands
   The following keyboard commands are used to control the
   program:
 
@@ -23,6 +24,7 @@ Generates a curve using either b-spline or Bezier method, and then rotates the c
   Rotation of the points, curves, and surfaces can be performed
   by rotating about the x-axis.
 
+## Program features
 [X] Control point input On/Off: When ON, user can add control 
       points
 
