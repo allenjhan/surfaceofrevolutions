@@ -33,7 +33,7 @@ Generates a curve using either b-spline or Bezier method, and then rotates the c
       B-spline curve based on control points
 - [X] Select control point: In this mode, program can allow user
       to select a control point
-- [.] Delete or move selected control point: (feature of program,
+- [ ] Delete or move selected control point: (feature of program,
       and not available through menu); program will automatically
       update the current control polygon/B-spline curve when the
       selected control point is deleted or moved
@@ -48,4 +48,4 @@ Generates a curve using either b-spline or Bezier method, and then rotates the c
 - [ ] Texture surface: allow the user to texture map either an
       image or a texture pattern onto the B-spline surface; user
       can choose between the options
-- [.] Have documentation available
+- [ ] Have documentation available
